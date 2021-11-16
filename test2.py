@@ -1,6 +1,7 @@
-def devide(a,b):
-  assert b!=0
-  return a/b
+def devide(a, b):
+    assert b != 0
+    return a / b
 
-if __name__=="__main__":
-  print(devide(1,1))
+
+if __name__ == "__main__":
+    print(devide(1, 1))
